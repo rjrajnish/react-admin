@@ -1,15 +1,16 @@
 # admin
 admin
 
-<!-- install client side dependencies -->
+============ install client side dependencies  =======
 admin > client - npm install
 
-<!-- install server side dependencies -->
+=========== install server side dependencies ========
 admin > server - npm install
 
-<!--  run client -->
+
+====start client command =======
 npm start
 
-<!-- run server -->
+======== start server command =======
 
 npm start
